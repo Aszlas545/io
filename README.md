@@ -14,6 +14,10 @@ The GreenGame project is structured as follows:
 
 ## Implemented Game: Space Invaders
 
+### Location
+
+games/1
+
 ### Objective
 
 Space Invaders in GreenGame retains the classic objective of defending the Earth from invading alien spaceships. However, the game incorporates themes of environmental sustainability by visualizing the alien ships as symbols of pollution or climate change, aligning with the project's educational goals.
